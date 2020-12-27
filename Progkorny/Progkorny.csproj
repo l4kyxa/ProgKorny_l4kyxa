@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>netcoreapp3.0</TargetFramework>
+    </PropertyGroup>
+    <ItemGroup>
+        <Compile Update="**\*.xaml.cs">
+            <DependentUpon>%(Filename)</DependentUpon>
+        </Compile>
+        <AvaloniaResource Include="**\*.xaml">
+            <SubType>Designer</SubType>
+        </AvaloniaResource>
+        <AvaloniaResource Include="Assets\**" />
+    </ItemGroup>
+    <ItemGroup>
+        <PackageReference Include="Avalonia" Version="0.9.12" />
+        <PackageReference Include="Avalonia.Desktop" Version="0.9.12" />
+        <PackageReference Include="Avalonia.ReactiveUI" Version="0.9.12" />
+    </ItemGroup>
+    <ItemGroup>
+      <Compile Update="Views\AutoDetailsWindow.xaml.cs">
+        <DependentUpon>AutoDetailsWindow.xaml</DependentUpon>
+      </Compile>
+      <Compile Update="Views\AutoFormWindow.xaml.cs">
+        <DependentUpon>AutoFormWindow.xaml</DependentUpon>
+      </Compile>
+    </ItemGroup>
+</Project>
