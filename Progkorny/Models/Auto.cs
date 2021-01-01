@@ -15,7 +15,7 @@ namespace Progkorny.Models
             get { return _tipus; }
             set
             {
-                if (value=="")
+                if (value== null)
                 {
                     throw new ArgumentException(value + "A tipus nem megfelelő");
                 }

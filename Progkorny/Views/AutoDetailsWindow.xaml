@@ -8,6 +8,7 @@
     Title="Adatok"
     d:DesignHeight="450"
     d:DesignWidth="800"
+    Icon="/Assets/avalonia-logo.ico"
     Content="{Binding SelectedAuto}"
     mc:Ignorable="d">
   <Window.Resources>

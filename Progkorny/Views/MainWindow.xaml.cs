@@ -11,7 +11,7 @@ namespace Progkorny.Views
     {
         public MainWindow()
         {
-            InitializeComponent();   
+            InitializeComponent();
         }
 
         private void InitializeComponent()
@@ -20,30 +20,29 @@ namespace Progkorny.Views
         }
 
 
-        public void formMegnyitasa(object sender, RoutedEventArgs e)
+        public void sideopen(object sender, RoutedEventArgs e)
         {
             AutoFormWindow window = new AutoFormWindow()
             {
                 DataContext = this.DataContext
             };
             window.ShowDialog(this);
-           
         }
 
         public void selectedAuto(object sender, SelectionChangedEventArgs e)
         {
             if (e.AddedItems.Count > 0)
             {
-                ListBox senderbox = (ListBox) sender;
+                ListBox senderbox = (ListBox)sender;
                 AutoDetailsWindow details = new AutoDetailsWindow()
                 {
-                
-                    DataContext = new AutoView((Auto)senderbox.SelectedItem )
-                   
-                };   
-                //senderbox.UnselectAll();//UnselectAll-Al ugyanzt nyitja meg???
-                details.ShowDialog(this);
-            }  
+
+                    DataContext = new AutoView((Auto)senderbox.SelectedItem)
+
+                };
+                senderbox.SelectedItem = null;
+                details.Show();
+            }
         }
     }
 }

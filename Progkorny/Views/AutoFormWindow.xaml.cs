@@ -94,14 +94,12 @@ namespace Progkorny
                 auto.Evjarat = DateTime.Parse(evjarat.Text);
                 MainWindowViewModel mvvm = (MainWindowViewModel)this.DataContext;
                 mvvm.List.Autok.Add(auto);
-
                 AutoFormWindow window = new AutoFormWindow()
                 {
                     DataContext = this.DataContext
                 };
                 this.Close();
             }
-     
         }
 
         private bool validTipus(string tipus)
