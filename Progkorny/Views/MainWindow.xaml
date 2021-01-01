@@ -5,59 +5,70 @@
     xmlns:assets="clr-namespace:Progkorny.Assets"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    xmlns:vm="clr-namespace:Progkorny.ViewModels;assembly=Progkorny"
-    Title="Progkorny"
+    Title="Gépjármű-nyilvántartás"
     d:DesignHeight="450"
     d:DesignWidth="800"
     Icon="/Assets/avalonia-logo.ico"
+    Content="{Binding selectedAuto}"
     mc:Ignorable="d">
-
-  <Design.DataContext>
-    <vm:MainWindowViewModel />
-  </Design.DataContext>
   <Window.Resources>
-    <assets:EvjaratConverter x:Key="Szuletesidatumconverter" />
+    <assets:EvjaratConverter x:Key="Evjaratconverter" />
   </Window.Resources>
-  <WrapPanel Name="wrappanel">
-
-    <Button Name="listabutton" Content="Lista" />
-    <TextBlock></TextBlock>
-
-    <TextBlock Text="{Binding Text, ElementName=box}" />
-
+  <StackPanel Orientation="Vertical">
+  <Grid ColumnDefinitions="*" RowDefinitions="*,*"/>
+    <Border
+   Margin="5"
+   Padding="5"
+   Background="Gray"
+   BorderBrush="Black"
+   BorderThickness="2">
+      <TextBlock
+           Text="Járműlista " TextAlignment="Center" FontSize="40" Foreground="White"/>
+    </Border>
     <ListBox
-          Name="autoBox"
-          Items="{Binding List.Autok}"
-          SelectionChanged="selectedAuto">
+      Grid.Row="0"
+      Grid.Column="0"
+      Name="autoBox"
+      Items="{Binding List.Autok}"
+      SelectionChanged="selectedAuto"
+      Background="Gray"
+      Margin="5"
+      Padding="5"
+      BorderBrush="Black"
+      BorderThickness="2">
       <ListBox.ItemTemplate>
         <DataTemplate>
           <Border
-              Margin="5"
-              Padding="5"
-              Background="Beige"
-              BorderBrush="Aqua"
-              BorderThickness="2">
-            <Grid ColumnDefinitions="*,*" RowDefinitions="*">
-              <Border
-                  Margin="5"
-                  Padding="5"
-                  Background="Aqua"
-                  BorderBrush="Black"
-                  BorderThickness="2">
-                <TextBlock
-                    Grid.Row="0"
-                    Grid.Column="0"
-                    Text="{Binding Rendszam}" />
-
-
-              </Border>
-              
-            </Grid>
+            Margin="1"
+            BorderBrush="Black"
+            BorderThickness="1"
+            Background="White">
+              <TextBlock
+                Text="{Binding Rendszam}"
+                TextAlignment="Center"
+                FontSize="40"/>
           </Border>
-
-
         </DataTemplate>
       </ListBox.ItemTemplate>
     </ListBox>
-  </WrapPanel>
+    <Border
+      Height="100"
+      BorderBrush="Black"
+      BorderThickness="2"
+      Grid.Row="1"
+      Grid.Column="0"
+      Margin="5"
+      Padding="5"
+      Background="Gray">
+      <Button   
+         Margin="10"
+         Padding="10"
+         BorderThickness="2"
+         BorderBrush="Black"
+         Background="LightGray"
+         Click="formMegnyitasa" 
+         Content="Új Elem létrehozása"
+         FontSize="25"/>
+    </Border>
+    </StackPanel>
 </Window>

@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using Progkorny.Assets;
+﻿using Progkorny.Assets;
 using ReactiveUI;
 
 namespace Progkorny.ViewModels

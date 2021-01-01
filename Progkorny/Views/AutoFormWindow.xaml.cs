@@ -32,31 +32,33 @@ namespace Progkorny
             ar.Text = "";
             rendszam.Text = "";
             evjarat.Text = "";
+            tipus.Background = Brushes.White;
+            ar.Background = Brushes.White;
+            rendszam.Background = Brushes.White;
+            evjarat.Background = Brushes.White;
+           
 
         }
 
         private void back(object sender, RoutedEventArgs e)
         {
             AutoFormWindow window = new AutoFormWindow()
-            {
-                DataContext = this.DataContext
-            };
-            //window.ShowDialog(this);
-            window.Hide();
+            {DataContext = this.DataContext};
+            this.Close();
         }
-           
 
-
+  
         private void validateForm(object sender, RoutedEventArgs e)
         {
+  
             TextBox tipus = this.Find<TextBox>("tipusmezo");
             TextBox ar = this.Find<TextBox>("armezo");
             TextBox rendszam = this.Find<TextBox>("rendszammezo");
             DatePicker evjarat = this.Find<DatePicker>("evjaratmezo");
-            tipus.Background = null;
-            ar.Background = null;
-            rendszam.Background = null;
-            evjarat.Background = null;
+            tipus.Background = Brushes.White;
+            ar.Background = Brushes.White;
+            rendszam.Background = Brushes.White;
+            evjarat.Background = Brushes.White;
             bool validTipus = this.validTipus(tipus.Text);
             bool validAr = this.validAr(ar.Text);
             bool validRendszam = this.validRendszam(rendszam.Text);
@@ -64,23 +66,24 @@ namespace Progkorny
 
             
             if (!validTipus)
-            {
-                tipus.Background = Brushes.Red;
-            }
-       
+            {tipus.Background = Brushes.Red;}
+            else
+            {tipus.Background = Brushes.Green;}
 
             if (!validAr)
-            {
-                ar.Background = Brushes.Red;
-            }
+            {ar.Background = Brushes.Red;}
+            else
+            {ar.Background = Brushes.Green;}
+
             if (!validRendszam)
-            {
-                rendszam.Background = Brushes.Red;
-            }
+            {rendszam.Background = Brushes.Red;}
+            else
+            {rendszam.Background = Brushes.Green;}
+
             if (!validEvjarat)
-            {
-                evjarat.Background = Brushes.Red;
-            }
+            {evjarat.Background = Brushes.Red;}
+            else 
+            {evjarat.Background = Brushes.Green;}
 
             if (validTipus && validAr && validRendszam && validEvjarat)
             {
@@ -89,13 +92,16 @@ namespace Progkorny
                 auto.Ar = Int64.Parse(ar.Text);
                 auto.Rendszam = rendszam.Text;
                 auto.Evjarat = DateTime.Parse(evjarat.Text);
-                Console.WriteLine(auto);
-                MainWindowViewModel mvvm = (MainWindowViewModel) this.DataContext;
+                MainWindowViewModel mvvm = (MainWindowViewModel)this.DataContext;
                 mvvm.List.Autok.Add(auto);
+
+                AutoFormWindow window = new AutoFormWindow()
+                {
+                    DataContext = this.DataContext
+                };
+                this.Close();
             }
- 
-            
-            
+     
         }
 
         private bool validTipus(string tipus)

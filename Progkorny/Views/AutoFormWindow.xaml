@@ -9,53 +9,136 @@
     d:DesignWidth="800"
     mc:Ignorable="d">
     <StackPanel Orientation="Vertical">
-        <TextBlock Text="Új autó adatai:">
-            <TextBlock.TextAlignment>Center</TextBlock.TextAlignment>
-        </TextBlock>
-        <Grid ColumnDefinitions="*,2*" RowDefinitions="*,*,*,*">
-            <TextBlock
-                Grid.Row="0"
-                Grid.Column="0"
-                Text="Típus:" />
-            <TextBox
-                Name="tipusmezo"
-                Grid.Row="0"
-                Grid.Column="1"
-                Watermark="Tipus" />
-            <TextBlock
-                Grid.Row="1"
-                Grid.Column="0"
-                Text="Évjárat:" />
-            <DatePicker
-                Name="evjaratmezo"
-                Grid.Row="1"
-                Grid.Column="1" />
-            <TextBlock
-                Grid.Row="2"
-                Grid.Column="0"
-                Text="Ár:" />
-            <TextBox
-                Name="armezo"
-                Grid.Row="2"
-                Grid.Column="1"
-                Watermark="Forint" />
-            <TextBlock
-                Grid.Row="3"
-                Grid.Column="0"
-                Text="Rendszám:" />
-            <TextBox
-                Name="rendszammezo"
-                Grid.Row="3"
-                Grid.Column="1"
-                Watermark="ASD123" />
+      <Border
+        Margin="5"
+        Padding="5"
+        Background="Gray"
+        BorderBrush="Black"
+        BorderThickness="2">
+        <TextBlock Text="Az új jármű adatai: " TextAlignment="Center" Foreground="White" FontSize="40"/>
+      </Border>
+      <Border
+        Margin="5"
+        Padding="5"
+        Background="Gray"
+        BorderBrush="Black"
+        BorderThickness="2">
+        <Grid ColumnDefinitions="*,2*" RowDefinitions="*,*,*,*,*">
+          
+                      <TextBlock
+     Margin="1"
+             Background="White"
+              Grid.Row="0"
+              Grid.Column="0"
+              Text="Rendszám:" 
+               TextAlignment="Center" 
+              FontSize="25"/>
+          <TextBox
+              Name="rendszammezo"
+              Grid.Row="0"
+              Grid.Column="1"
+               FontSize="25"
+              Watermark="írja be a jármű rendszámát (Pl.:ASD123)" />
+            
+            
+            
+            
+          <TextBlock
+            Margin="1"
+             Background="White"
+              Grid.Row="1"
+              Grid.Column="0"
+              Text="Típus:"
+              TextAlignment="Center" 
+              FontSize="25"/>
+          <TextBox
+              Name="tipusmezo"
+              Grid.Row="1"
+              Grid.Column="1"
+               FontSize="25"
+              Watermark="írja be a jármű típusát (Pl.: Ford)" />
+          
+          <TextBlock
+             Margin="1"
+            Background="White"
+              Grid.Row="2"
+              Grid.Column="0"
+              Text="Évjárat:"
+              TextAlignment="Center" 
+              FontSize="25"/>
+          <DatePicker
+             
+              Name="evjaratmezo"
+              Grid.Row="2"
+              Grid.Column="1" 
+              FontSize="25"
+              Focusable = "False"
+              Watermark="válassza ki a jármű gyártásának idejét a sor végén található gomb segítségével"/>
+
+          <TextBlock
+      Margin="1"
+             Background="White"
+              Grid.Row="3"
+              Grid.Column="0"
+              Text="Ár:"
+               TextAlignment="Center" 
+              FontSize="25"/>
+          <TextBox
+              Name="armezo"
+              Grid.Row="3"
+              Grid.Column="1"
+               FontSize="25"
+              Watermark="írja be a jármű árát (Pl.:10000)" />
+
+
         </Grid>
-
-
-        <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
-            <Button Click="validateForm" Content="Hozzáad" />
-            <Button Click="storno"  Content="Ürít" />
-          <Button Click="back" Content="Vissza" />
-        </StackPanel>
+      </Border>
+      <Border
+         Margin="5"
+         Padding="5"
+         Background="Gray"
+         BorderBrush="Black"
+         BorderThickness="2">
+        
+        <Grid ColumnDefinitions="*,*,*" RowDefinitions="*">
+          <Border
+             BorderThickness="2">
+            <Button
+             Margin="5"
+             Padding="5"
+             BorderThickness="2"
+             BorderBrush="Black"
+             Background="LightGray"
+             Grid.Row="0"
+             Grid.Column="0"
+             Click="validateForm" 
+             Content="Mentés"
+            FontSize="25"/>
+            </Border>
+        <Button
+             Margin="5"
+             Padding="5"
+             BorderThickness="2"
+             BorderBrush="Black"
+             Background="LightGray"
+             Grid.Row="0"
+             Grid.Column="1"
+             Click="storno"  
+             Content="Ürít" 
+             FontSize="25"/>
+          <Button
+             Margin="5"
+             Padding="5"
+             BorderThickness="2"
+             BorderBrush="Black"
+             Background="LightGray"
+             Grid.Row="0"
+             Grid.Column="2"
+             Click="back" 
+             Content="Vissza" 
+             FontSize="25"/>
+        </Grid>
+      </Border>
     </StackPanel>
 </Window>
 

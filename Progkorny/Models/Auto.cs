@@ -9,12 +9,13 @@ namespace Progkorny.Models
         private DateTime _evjarat;
         private long _ar;
         private string _rendszam;
+
         public string Tipus
         {
             get { return _tipus; }
             set
             {
-                if (value==null)
+                if (value=="")
                 {
                     throw new ArgumentException(value + "A tipus nem megfelelő");
                 }
@@ -56,8 +57,13 @@ namespace Progkorny.Models
             get { return _rendszam; }
             set
             {
-                Regex r = new Regex(@"^\w{3}\d{3}$");
-                if (!r.Match(value).Success)
+                Regex r = new Regex(@"^\w{3}\d{3}$");//ASD123
+                Regex r1 = new Regex(@"^\w{4}\d{2}$");//CICA00
+                Regex r2 = new Regex(@"^\w{1}\d{5}$");//P12345
+                Regex r3 = new Regex(@"^\w{2}\d{4}$");//RM1234
+
+                if (!r.Match(value).Success && !r1.Match(value).Success && !r2.Match(value).Success && !r3.Match(value).Success )
+
                 {
                     throw new ArgumentException(value + "A rendszám nem megfelelő");
                 }

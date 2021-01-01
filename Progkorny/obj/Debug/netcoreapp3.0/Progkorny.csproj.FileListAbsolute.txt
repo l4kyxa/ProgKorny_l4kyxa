@@ -1,0 +1,328 @@
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Progkorny.exe
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Progkorny.deps.json
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Progkorny.runtimeconfig.json
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Progkorny.runtimeconfig.dev.json
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Progkorny.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Progkorny.pdb
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Animation.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Base.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Controls.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.DesignerSupport.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.DesktopRuntime.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Diagnostics.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Dialogs.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Input.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Interactivity.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Layout.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Logging.Serilog.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Markup.Xaml.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Markup.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.OpenGL.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Styling.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Themes.Default.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Visuals.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Desktop.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Direct2D1.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.FreeDesktop.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Native.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.ReactiveUI.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Remote.Protocol.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Skia.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Win32.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.X11.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\DynamicData.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\JetBrains.Annotations.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Microsoft.VisualBasic.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\ReactiveUI.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Serilog.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Serilog.Sinks.Debug.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Serilog.Sinks.Trace.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\SharpDX.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\SharpDX.Direct2D1.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\SharpDX.Direct3D11.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\SharpDX.DXGI.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\SharpGen.Runtime.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\SharpGen.Runtime.COM.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\SkiaSharp.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Splat.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\System.Reactive.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\Tmds.DBus.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\runtimes\debian-x64\native\libuv.so
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\runtimes\fedora-x64\native\libuv.so
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\runtimes\osx\native\libuv.dylib
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\runtimes\rhel-x64\native\libuv.so
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\runtimes\win7-arm\native\libuv.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\runtimes\win7-x64\native\libuv.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\runtimes\win7-x86\native\libuv.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\runtimes\tizen-armel\native\libSkiaSharp.so
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\runtimes\tizen-x86\native\libSkiaSharp.so
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\obj\Debug\netcoreapp3.0\Progkorny.csprojAssemblyReference.cache
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\obj\Debug\netcoreapp3.0\Progkorny.AssemblyInfoInputs.cache
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\obj\Debug\netcoreapp3.0\Progkorny.AssemblyInfo.cs
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\obj\Debug\netcoreapp3.0\Progkorny.csproj.CoreCompileInputs.cache
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\obj\Debug\netcoreapp3.0\Progkorny.csproj.CopyComplete
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\obj\Debug\netcoreapp3.0\Progkorny.dll
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\obj\Debug\netcoreapp3.0\Progkorny.pdb
+C:\Users\Zsák József\Desktop\ALAP\ProgramozasiKornyezetekWPF2020-master\Progkorny\obj\Debug\netcoreapp3.0\Progkorny.genruntimeconfig.cache
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Progkorny.exe
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Progkorny.deps.json
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Progkorny.runtimeconfig.json
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Progkorny.runtimeconfig.dev.json
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Progkorny.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Progkorny.pdb
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Animation.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Base.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Controls.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.DesignerSupport.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.DesktopRuntime.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Diagnostics.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Dialogs.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Input.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Interactivity.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Layout.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Logging.Serilog.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Markup.Xaml.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Markup.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.OpenGL.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Styling.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Themes.Default.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Visuals.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Desktop.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Direct2D1.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.FreeDesktop.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Native.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.ReactiveUI.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Remote.Protocol.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Skia.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Win32.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.X11.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\DynamicData.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\JetBrains.Annotations.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Microsoft.VisualBasic.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\ReactiveUI.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Serilog.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Serilog.Sinks.Debug.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Serilog.Sinks.Trace.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\SharpDX.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\SharpDX.Direct2D1.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\SharpDX.Direct3D11.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\SharpDX.DXGI.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\SharpGen.Runtime.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\SharpGen.Runtime.COM.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\SkiaSharp.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Splat.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\System.Reactive.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Tmds.DBus.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\debian-x64\native\libuv.so
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\fedora-x64\native\libuv.so
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\osx\native\libuv.dylib
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\rhel-x64\native\libuv.so
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\win7-arm\native\libuv.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\win7-x64\native\libuv.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\win7-x86\native\libuv.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\tizen-armel\native\libSkiaSharp.so
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\tizen-x86\native\libSkiaSharp.so
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\obj\Debug\netcoreapp3.0\Progkorny.csprojAssemblyReference.cache
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\obj\Debug\netcoreapp3.0\Progkorny.AssemblyInfoInputs.cache
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\obj\Debug\netcoreapp3.0\Progkorny.AssemblyInfo.cs
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\obj\Debug\netcoreapp3.0\Progkorny.csproj.CoreCompileInputs.cache
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\obj\Debug\netcoreapp3.0\Progkorny.csproj.CopyComplete
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\obj\Debug\netcoreapp3.0\Progkorny.dll
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\obj\Debug\netcoreapp3.0\Progkorny.pdb
+C:\Users\Zsák József\Desktop\l4kyxa\Progkorny\obj\Debug\netcoreapp3.0\Progkorny.genruntimeconfig.cache
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Progkorny.exe
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Progkorny.deps.json
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Progkorny.runtimeconfig.json
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Progkorny.runtimeconfig.dev.json
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Progkorny.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Progkorny.pdb
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Animation.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Base.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Controls.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.DesignerSupport.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.DesktopRuntime.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Diagnostics.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Dialogs.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Input.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Interactivity.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Layout.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Logging.Serilog.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Markup.Xaml.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Markup.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.OpenGL.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Styling.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Themes.Default.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Visuals.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Desktop.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Direct2D1.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.FreeDesktop.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Native.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.ReactiveUI.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Remote.Protocol.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Skia.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Win32.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.X11.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\DynamicData.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\JetBrains.Annotations.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Microsoft.VisualBasic.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\ReactiveUI.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Serilog.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Serilog.Sinks.Debug.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Serilog.Sinks.Trace.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\SharpDX.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\SharpDX.Direct2D1.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\SharpDX.Direct3D11.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\SharpDX.DXGI.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\SharpGen.Runtime.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\SharpGen.Runtime.COM.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\SkiaSharp.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Splat.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\System.Reactive.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Tmds.DBus.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\osx\native\libAvaloniaNative.dylib
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\libSkiaSharp.so
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libSkiaSharp.so
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\debian-x64\native\libuv.so
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\fedora-x64\native\libuv.so
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\opensuse-x64\native\libuv.so
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\osx\native\libuv.dylib
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\rhel-x64\native\libuv.so
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\win7-arm\native\libuv.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\win7-x64\native\libuv.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\win7-x86\native\libuv.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\osx\native\libSkiaSharp.dylib
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\tizen-armel\native\libSkiaSharp.so
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\tizen-x86\native\libSkiaSharp.so
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\libSkiaSharp.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\libSkiaSharp.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\obj\Debug\netcoreapp3.0\Progkorny.csprojAssemblyReference.cache
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\obj\Debug\netcoreapp3.0\Progkorny.AssemblyInfoInputs.cache
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\obj\Debug\netcoreapp3.0\Progkorny.AssemblyInfo.cs
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\obj\Debug\netcoreapp3.0\Progkorny.csproj.CoreCompileInputs.cache
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\obj\Debug\netcoreapp3.0\Progkorny.csproj.CopyComplete
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\obj\Debug\netcoreapp3.0\Progkorny.dll
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\obj\Debug\netcoreapp3.0\Progkorny.pdb
+F:\EKE-TTK-PTI-BSC\Programozási környezetek\Beadandó\Beadandó_02\l4kyxa\Progkorny\obj\Debug\netcoreapp3.0\Progkorny.genruntimeconfig.cache
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Progkorny.exe
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Progkorny.deps.json
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Progkorny.runtimeconfig.json
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Progkorny.runtimeconfig.dev.json
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Progkorny.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Progkorny.pdb
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Animation.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Base.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Controls.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.DesignerSupport.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.DesktopRuntime.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Diagnostics.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Dialogs.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Input.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Interactivity.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Layout.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Logging.Serilog.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Markup.Xaml.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Markup.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.OpenGL.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Styling.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Themes.Default.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Visuals.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Desktop.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Direct2D1.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.FreeDesktop.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Native.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.ReactiveUI.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Remote.Protocol.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Skia.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.Win32.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Avalonia.X11.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\DynamicData.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\JetBrains.Annotations.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Microsoft.VisualBasic.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\ReactiveUI.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Serilog.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Serilog.Sinks.Debug.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Serilog.Sinks.Trace.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\SharpDX.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\SharpDX.Direct2D1.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\SharpDX.Direct3D11.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\SharpDX.DXGI.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\SharpGen.Runtime.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\SharpGen.Runtime.COM.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\SkiaSharp.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Splat.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\System.Reactive.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\Tmds.DBus.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\debian-x64\native\libuv.so
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\fedora-x64\native\libuv.so
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\osx\native\libuv.dylib
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\rhel-x64\native\libuv.so
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\win7-arm\native\libuv.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\win7-x64\native\libuv.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\win7-x86\native\libuv.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\tizen-armel\native\libSkiaSharp.so
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\tizen-x86\native\libSkiaSharp.so
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\obj\Debug\netcoreapp3.0\Progkorny.csprojAssemblyReference.cache
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\obj\Debug\netcoreapp3.0\Progkorny.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\obj\Debug\netcoreapp3.0\Progkorny.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\obj\Debug\netcoreapp3.0\Progkorny.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\obj\Debug\netcoreapp3.0\Progkorny.csproj.CopyComplete
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\obj\Debug\netcoreapp3.0\Progkorny.dll
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\obj\Debug\netcoreapp3.0\Progkorny.pdb
+C:\Users\Toshiba\Desktop\l4kyxa\Progkorny\obj\Debug\netcoreapp3.0\Progkorny.genruntimeconfig.cache
